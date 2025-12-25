@@ -1,6 +1,6 @@
 /**
  * Simple Task Manager API (Single File Backend)
- * Tech: Node.js, Express, MongoDB, JW
+ * Tech: Node.js, Express, MongoDB, JWT
  * Author: You
  */
 

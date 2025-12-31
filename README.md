@@ -1,7 +1,7 @@
 /**
  * Simple Task Manager API (Single File Backend)
  * Tech: Node.js, Express, MongoDB, JWT
- * Author: 
+ * Author: You
  */
 
 require("dotenv").config();
